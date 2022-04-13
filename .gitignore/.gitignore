@@ -1,0 +1,10 @@
+# Default
+*
+.*
+!.gitignore
+!*.md
+!*.py
+!*.txt
+
+# Flask
+!templates
