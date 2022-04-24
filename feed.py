@@ -16,8 +16,8 @@ fb = FacebookApi(access_token=facebook_access_token)
 #fb = FacebookApi(app_id=app_id, app_secret=app_secret, application_only_auth=True)
 
 # Check.
-user_id = None
-user=fb.user.get_info(user_id=user_id)
+#user_id = None
+#user=fb.user.get_info(user_id=user_id)
 
 # Own wall.
 data=api.get_connection("me", "posts")
