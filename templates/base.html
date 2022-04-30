@@ -1,0 +1,8 @@
+<div class="navbar-end">
+    <a href="{{ url_for('index') }}" class="navbar-item">Home</a>
+    <a href="{{ url_for('get_my_new_posts') }}" class="navbar-item">Sprawdź nowe posty</a>
+</div>
+
+<div class="container">
+    {% block content %} {% endblock %}
+</div>
