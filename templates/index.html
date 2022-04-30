@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+    <br>
+    <p>:)</p>
+
+    <div class="posts">
+
+        {% if posts %}
+            <p>Autor: {{posts[0].author}}</p>
+        {% endif %}
+  
+  
+        {% for post in posts %}
+
+            <div class="post">
+                <p>{{post.created_at}}</p>
+                <p>{{post.msg}}</p>
+                <br>
+                <br>
+            </div>
+
+        {% endfor %}
+    
+
+    </div>
+
+{% endblock %}
