@@ -8,15 +8,16 @@
    Dane tokena przechowywane poza strukturą serwera WWW.
    Osobne środowisko do odnawiania tokena, nie polączone razem z glowna aplikacja (jako opcja).
 
-4. Wymianę informacji postach znajomych opieramy o komunikację REST API. ->
+3. Wymianę informacji postach znajomych opieramy o komunikację REST API. ->
+
    a. Osoba powierająca informacje musi uzyskać zezwolenie na pobranie danych.
+
    b. Autoryzacja -> klucze prywatne/publiczne lub wymiana własnych identyfikatorów np typu GUID
-   c. Identyfikacja i Uwierzytelnianie -> TODO !!! ????
-   
+
+   c. Identyfikacja i Uwierzytelnianie -> TODO !!! ???? -> Wysyłanie zaproszeń
+
    Tylko SSL.
-   
-   Wysyłanie zaproszeń.
-   
-   
-   
+
 4. Powiadomienia w formie codziennego email z informacjami, kto jaki post umieścił.
+
+5. Automatyzacja operacji rejestracji i pozyskiwania tokenów
