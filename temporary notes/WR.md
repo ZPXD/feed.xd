@@ -15,4 +15,8 @@
    
    Tylko SSL.
    
+   Wysyłanie zaproszeń.
+   
+   
+   
 4. Powiadomienia w formie codziennego email z informacjami, kto jaki post umieścił.
