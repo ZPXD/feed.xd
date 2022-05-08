@@ -21,3 +21,12 @@
 4. Powiadomienia w formie codziennego email z informacjami, kto jaki post umieścił.
 
 5. Automatyzacja operacji rejestracji i pozyskiwania tokenów
+
+[API Security: The Complete Guide to Threats, Methods & Tools](https://brightsec.com/blog/api-security/)
+
+JSON Web Tokens - RFC 7519
+OpenID
+
+[How to Add API Key Authentication to a Flask app](https://blog.teclado.com/api-key-authentication-with-flask/)
+
+[How To Authenticate Flask API Using JWT | LoginRadius Blog](https://www.loginradius.com/blog/engineering/guest-post/securing-flask-api-with-jwt/)
