@@ -4,7 +4,7 @@
 
 ##### PGPME -> nie potrzebuje binarki GnuP
 
-- [PGMPME @gnupg.org](https://dev.gnupg.org/source/gpgme/browse/master/)
+- [PGMPME Python @gnupg.org](https://dev.gnupg.org/source/gpgme/browse/master/lang/python/)
 - [GNU Privacy Guard (GnuPG) Made Easy Python Bindings HOWTO (English)](http://files.au.adversary.org/crypto/gpgme-python-howto.html)
 
 ##### Python-GnuPG + binarka GnuPG
